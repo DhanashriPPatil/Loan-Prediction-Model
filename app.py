@@ -1,5 +1,6 @@
-import streamlit as st
-import joblib  # Replacing pickle
+import streamlit as st 
+import joblib
+import sklearn
 import numpy as np
 
 # Load the model and scaler
